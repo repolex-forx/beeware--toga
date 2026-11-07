@@ -1,0 +1,11 @@
+{
+  "org": "beeware",
+  "repo": "toga",
+  "versions": [
+    {
+      "commit": "c7d1d4e75505d69554dd6f68da4fa12ed58eb80e",
+      "tag": "",
+      "parsed_at": "2026-11-07T11:58:37.786087+00:00"
+    }
+  ]
+}
