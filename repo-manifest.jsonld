@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/beeware/toga/commit/c7d1d4e75505d69554dd6f68da4fa12ed58eb80e",
       "git:hexsha": "c7d1d4e75505d69554dd6f68da4fa12ed58eb80e",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T11:58:37.785053+00:00"
     },
     {
       "@id": "https://repolex.ai/r/beeware/toga/commit/213224e5e302f0ebfb44770e8d47b8538ef7b2e7",
